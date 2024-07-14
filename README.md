@@ -2,6 +2,7 @@
 
 _This unofficial document is intended to provide a brief overview of data storage options provided by UC Berkeley. The information included in this document is up to date as of 6/1/2024, however storage options are subject to change. Please consult with the_ [_Berkeley Research Data Management Program_](https://researchdata.berkeley.edu/home) _for the most up to date information and support._
 
+---
 
 ## Table of Contents
 
@@ -18,6 +19,7 @@ _This unofficial document is intended to provide a brief overview of data storag
 - [Contributors](#contributors)
 
 ---
+
 # [Box](https://bconnected.berkeley.edu/collaboration-services/box)
 
 - Accounts for individuals
@@ -29,6 +31,7 @@ _This unofficial document is intended to provide a brief overview of data storag
 \*SPAs are accounts with CalNet IDs that can be shared by multiple users. They allow for persistence in data access as they are not tied to individuals.
 
 ---
+
 # [Google Drive](https://www.google.com/drive/)
 
 [**MyDrive (bdrive)**](https://bconnected.berkeley.edu/collaboration-services/google/bdrive)
@@ -44,7 +47,9 @@ _This unofficial document is intended to provide a brief overview of data storag
     1. Passthrough Pay Option: pay $1,440 annually for 10 TB (you can purchase more in 10 TB blocks). This is probably the easiest to use choice for PIs or small research groups (though it is more expensive than Wasabi or Active Archive Object Storage)
     2. Expanded Shared Drives: free, 1 TB Expanded Shared Drive per unit/group, or per 40 employees (i.e., Departments), 50 GB Expanded Shared Drive availability is more flexible
 - 5 TB max file size for both options.
+  
 ---
+
 # [Wasabi](https://technology.berkeley.edu/services/wasabi#:~:text=The%20cost%20is%20what%20Wasabi,month%20%28starting%20minimum%201TB%29.)
 
 _This is a relatively inexpensive (e.g., cheaper than google) and easy to use option for data storage. It is user friendly cloud storage and offers a simple GUI option to access and drop files from wasabi onto your local drive._
@@ -52,7 +57,9 @@ _This is a relatively inexpensive (e.g., cheaper than google) and easy to use op
 - $5.99 per TB/month (starting minimum 1TB), waiver on data egress fees (i.e., data transfer)
 - Submit a ticket for more information: [storage-ticket@berkeley.edu](mailto:storage-ticket@berkeley.edu)
 - Note: the cost of Wasabi without a Berkeley affiliation is $6.99 per TB/month, so this may be a good option if you may need to store data on a personal account in-between institutions
+  
 ---
+
 # [Cloud Options](https://technology.berkeley.edu/services/cloud)
 
 - Options:
@@ -67,21 +74,27 @@ _This is a relatively inexpensive (e.g., cheaper than google) and easy to use op
   - GCP: [gcp-cloud-ticket@berkeley.edu](mailto:gcp-cloud-ticket@berkeley.edu)
   - Azure: [bcloud@berkeley.edu](mailto:bcloud@berkeley.edu)
 - Note: there are good deep storage options via AWS (Amazon S3 Glacier) and GCP for data (Archive storage) that you aren’t actively using and want to archive. These options are often much cheaper than alternatives like Wasabi, but are a bit more complicated to set-up.
+  
 ---
+
 # [Active Archive Object Storage (AAOS)](https://technology.berkeley.edu/services/aaos)
 
 - Cheaper, long term storage option, especially for splitting among labs or research groups
 - Book a consultation to figure out exact pricing: [storageteam@lists.berkeley.edu](mailto:storageteam@lists.berkeley.edu)
 - This is hardware purchased by the researcher/research group/lab. The hardware and vendor support lasts for five years, then the equipment must be replaced. Because you are purchasing the equipment, the purchase is a capital expense in grant accounting and NOT included in the total on which overhead is assessed - a great saving in and of itself
 - Note: these costs will be somewhere around $5,600 (plus sales tax) for 125 TB for 5 years…that’s about $50 per TB for five years’ storage (83 cents per TB/month)!
+
 ---
+
 # [Savio Condo Storage](https://docs-research-it.berkeley.edu/services/high-performance-computing/condos/condo-storage-service)
 
 - For Condo Computing users of the Savio high performance computing cluster.
 - Cheaper, long term storage option; similar model as Active Archive Object Storage (AAOS). No cost after five years
 - 112 TB increments at a cost of $5,750 each (plus sales tax) (price subject to change due to supply chain issues)
 - Interested faculty and PIs should contact [brc-hpc-help@berkeley.edu](mailto:brc-hpc-help@berkeley.edu)
+
 ---
+
 # [Enterprise Storage](https://technology.berkeley.edu/storage)
 
 _\*This storage option is probably too expensive for most individuals and labs and is used more for business processes on campus, but it is included here since it is a Berkeley storage offering_
@@ -90,13 +103,17 @@ _\*This storage option is probably too expensive for most individuals and labs a
 - Performance tier: 20 cents per GB/month ($2,400 per TB/year)
 - See [here](https://technology.berkeley.edu/storage) for information about the different tiers.
 - Hosted in a data center and then can be mounted on a local machine (e.g. gdrive, hdrive)
+
 ---
+
 # [CalShare](https://technology.berkeley.edu/services/email-calendar-and-collaboration/calshare-sharepoint-online)
 
 _Intended for departmental collaboration, departmental intranet websites, and low-volume P4 data storage (not for individual use)._
 
 - Free, 1 TB storage quota. Maximum single file upload 15GB.
+
 ---
+
 # Additional notes
 
 **Privacy and security:** most of the Berkeley data storage options have a Data Security Level of P3. For P4 data storage options check out [CalShare](https://technology.berkeley.edu/services/email-calendar-and-collaboration/calshare-sharepoint-online), [Secure Research Data and Compute](https://docs-research-it.berkeley.edu/services/srdc/), and [Active Archive Object Storage (AAOS)](https://technology.berkeley.edu/services/aaos).
