@@ -18,7 +18,6 @@ _This unofficial document is intended to provide a brief overview of data storag
 - [Contributors](#contributors)
 
 # [Box](https://bconnected.berkeley.edu/collaboration-services/box)
----
 
 - Accounts for individuals
 - Free 50GB storage quota, 15 GB max file size
