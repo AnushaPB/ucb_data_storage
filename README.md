@@ -6,7 +6,6 @@ _This unofficial document is intended to provide a brief overview of data storag
 ## Table of Contents
 
 - [Box](#box)
-  - [\*SPAs are accounts with CalNet IDs that can be shared by multiple users. They allow for persistence in data access as they are not tied to individuals.](#spas-are-accounts-with-calnet-ids-that-can-be-shared-by-multiple-users-they-allow-for-persistence-in-data-access-as-they-are-not-tied-to-individuals)
 - [Google Drive](#google-drive)
 - [Wasabi](#wasabi)
 - [Cloud Options](#cloud-options)
@@ -28,6 +27,7 @@ _This unofficial document is intended to provide a brief overview of data storag
 - Important note: based on Berkeley’s contract Box is only approved for active data, not backups or archives
 
 \*SPAs are accounts with CalNet IDs that can be shared by multiple users. They allow for persistence in data access as they are not tied to individuals.
+
 ---
 # [Google Drive](https://www.google.com/drive/)
 
