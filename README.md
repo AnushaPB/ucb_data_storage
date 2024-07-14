@@ -27,7 +27,7 @@ _This unofficial document is intended to provide a brief overview of data storag
 
 \*SPAs are accounts with CalNet IDs that can be shared by multiple users. They allow for persistence in data access as they are not tied to individuals.
 
-# Google Drive
+# [Google Drive](https://www.google.com/drive/)
 
 [**MyDrive (bdrive)**](https://bconnected.berkeley.edu/collaboration-services/google/bdrive)
 
