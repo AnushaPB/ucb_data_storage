@@ -26,7 +26,7 @@ _This unofficial document is intended to provide a brief overview of data storag
 - Free 50GB storage quota, 15 GB max file size
 - Request up to 2 TB using this [form](https://docs.google.com/forms/d/e/1FAIpQLSc0CTC8v7JIfeKfE57S5s1M6A7KxIKyyZhtfo-T0RYJ4RIJAQ/viewform)
 - 500GB for [Special Purpose Accounts\*](https://calnet.berkeley.edu/calnet-departments/special-purpose-accounts-spa) (SPA)
-- Important note: based on Berkeley’s contract Box is only approved for active data, not backups or archives
+- Important note: based on Berkeley’s contract, Box is only approved for active data, not backups or archives
 
 \*SPAs are accounts with CalNet IDs that can be shared by multiple users. They allow for persistence in data access as they are not tied to individuals.
 
