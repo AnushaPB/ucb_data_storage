@@ -1,4 +1,4 @@
-<h1>UC Berkeley Data Storage Options</h1>
+<h1>UC Berkeley Data Storage</h1>
 
 _This unofficial document is intended to provide a brief overview of data storage options provided by UC Berkeley. The information included in this document is up to date as of 6/1/2024, however storage options are subject to change. Please consult with the_ [_Berkeley Research Data Management Program_](https://researchdata.berkeley.edu/home) _for the most up to date information and support._
 
