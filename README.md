@@ -1,6 +1,6 @@
 <h1>UC Berkeley Data Storage</h1>
 
-_This unofficial document is intended to provide a brief overview of data storage options provided by UC Berkeley. The information included in this document is up to date as of 6/1/2024, however storage options are subject to change. Please consult with the_ [_Berkeley Research Data Management Program_](https://researchdata.berkeley.edu/home) _for the most up to date information and support._
+_This unofficial guide is intended to provide a brief overview of data storage options provided by UC Berkeley. The information included in this guide is up to date as of 6/1/2024, however storage options are subject to change. Please consult with the_ [_Berkeley Research Data Management Program_](https://researchdata.berkeley.edu/home) _for the most up to date information and support._
 
 ---
 
@@ -142,7 +142,7 @@ _Intended for departmental collaboration, departmental intranet websites, and lo
   - Standard: $2.99/month for 200GB
   - Premium: $9.99/month for 2TB
 
-Unofficial Advice: I created this document to serve as a resource for UC Berkeley graduate students, post-docs, staff, and PIs who are responsible for generating and maintaining research data. For those looking for the short answer to “what do I do with my data?”, based on the resources described here I think the cheapest and easiest option for labs or research groups is to pay for storage via Wasabi or Google Shared Drives. For individuals who need to store their data independently, Box/Google Drive work if you need less than 2 TB and Wasabi seems to be the easiest and cheapest option if you have more than that. There are definitely more cost effective options described above that may take a bit more work to initially set-up. - Anusha
+Unofficial Advice: I created this guide to serve as a resource for UC Berkeley graduate students, post-docs, staff, and PIs who are responsible for generating and maintaining research data. For those looking for the short answer to “what do I do with my data?”, based on the resources described here I think the cheapest and easiest option for labs or research groups is to pay for storage via Wasabi or Google Shared Drives. For individuals who need to store their data independently, Box/Google Drive work if you need less than 2 TB and Wasabi seems to be the easiest and cheapest option if you have more than that. There are definitely more cost effective options described above that may take a bit more work to initially set-up. - Anusha
 
 # Sources
 
