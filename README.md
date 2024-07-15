@@ -146,15 +146,9 @@ Unofficial Advice: I created this guide to serve as a resource for UC Berkeley g
 
 # Sources
 
-<https://researchdata.berkeley.edu/service-areas/data-storage-backup>
+[Berkeley Research Data and Management: Data Storage & Backup](https://researchdata.berkeley.edu/service-areas/data-storage-backup)
 
-<https://technology.berkeley.edu/services/consulting-and-development-email-calendar-and-collaboration-systems-and-data-infrastructure>
-
-<https://technology.berkeley.edu/services?keywords=storage%20options>
-
-<https://technology.berkeley.edu/storage>
-
-<https://bconnected.berkeley.edu/projects/google-cost-reduction-project/alternative-storage-options>
+[Berkeley bConnected: Alternative Storage Options](https://bconnected.berkeley.edu/projects/google-cost-reduction-project/alternative-storage-options)
 
 # Contributors
 
