@@ -152,6 +152,6 @@ Unofficial Advice: I created this guide to serve as a resource for UC Berkeley g
 
 # Contributors
 
-Anusha Bishop (Creator, maintainer) [anusha.bishop@berkeley.edu](mailto:anusha.bishop@berkeley.edu)
+[Anusha Bishop (Creator, maintainer)](https://anushapb.github.io/)
 
-Rick Jaffe [rjaffe@berkeley.edu](mailto:rjaffe@berkeley.edu)
+[Rick Jaffe](https://research-it.berkeley.edu/rick-jaffe)
